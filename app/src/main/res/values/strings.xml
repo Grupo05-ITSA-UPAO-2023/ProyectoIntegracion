@@ -1,51 +1,6 @@
 <resources>
-    <string name="app_name">ProyectoIntegracion</string>
-    <string name="hint_origen">Origen</string>
-    <string name="hint_destino">Destino</string>
-    <string name="hint_fechaida">Fecha de ida (dd-mm-yyy)</string>
-    <string name="hint_fechavuelta">Fecha de retorno (opcional)</string>
-    <string name="boton_buscar">Buscar Ruta</string>
-    <string name="text_titulo">Hola, Elige tu ruta</string>
-
-    <string name="text_origen">Origen:</string>
-    <string name="hint_text_origen">Origen</string>
-    <string name="text_destino">Destino:</string>
-    <string name="hint_text_destino">Destino</string>
-
-    <string name="title_salida">Selecciona una salida:</string>
-
-    <string name="text_ida">Ida: </string>
-    <string name="hint_text_fechaida">yyyy-mm-dd</string>
-    <string name="botton_volver_buscar">Buscar Ruta</string>
-
-    <string name="table_salida">Hora</string>
-    <string name="table_servicio">Tipo</string>
-    <string name="table_precio">Precio</string>
-    <string name="table_select">Seleccionar</string>
-
-    <string name="p_hora">Hora</string>
-    <string name="p_bus">Bus</string>
-    <string name="p_precio">Precio</string>
-    <string name="botton_elegir">Elegir</string>
-
-    <string name="p_hora2">Hora</string>
-    <string name="p_bus2">Bus</string>
-    <string name="p_precio2">Precio</string>
-    <string name="botton_elegir2">Elegir</string>
-
-    <string name="p_hora3">Hora</string>
-    <string name="p_bus3">Bus</string>
-    <string name="p_precio3">Precio</string>
-    <string name="botton_elegir3">Elegir</string>
-
-    <string name="text_pasajero_seccion">Registrar pasajero</string>
-    <string name="hint_dni">Ingresa tu DNI</string>
-    <string name="botton_autocompletar">Autocompletar</string>
-    <string name="hint_nombre">Nombres</string>
-    <string name="hint_apellido_paterno">Apellido Paterno</string>
-    <string name="hint_apellido_materno">Apellido Materno</string>
-    <string name="hint_fecha_nacimiento">Fecha de Nacimiento (YYYY-MM-DD)</string>
-    <string name="hint_email">Email</string>
-    <string name="hint_Telefono">Telefono</string>
-
+    <string name="app_name">Proyecto</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="default_web_client_id" translatable="false">944353281280-ucm0su7ij73lgabv4ktvpd1b586mlu8g.apps.googleusercontent.com</string>
 </resources>
