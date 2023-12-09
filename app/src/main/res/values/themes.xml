@@ -1,9 +1,17 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+<<<<<<< HEAD
     <style name="Base.Theme.ProyectoIntegracion" parent="Theme.AppCompat.Light.NoActionBar">
+=======
+    <style name="Base.Theme.Proyecto" parent="Theme.AppCompat.Light.NoActionBar">
+>>>>>>> aa1cd682c895b13a9c3658412a960855e41dec28
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+<<<<<<< HEAD
     <style name="Theme.ProyectoIntegracion" parent="Base.Theme.ProyectoIntegracion" />
+=======
+    <style name="Theme.Proyecto" parent="Base.Theme.Proyecto" />
+>>>>>>> aa1cd682c895b13a9c3658412a960855e41dec28
 </resources>

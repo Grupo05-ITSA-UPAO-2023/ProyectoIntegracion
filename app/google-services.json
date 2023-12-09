@@ -9,7 +9,11 @@
       "client_info": {
         "mobilesdk_app_id": "1:944353281280:android:b9b8710ee7af454aa15fe5",
         "android_client_info": {
+<<<<<<< HEAD
           "package_name": "com.example.proyectointegracion"
+=======
+          "package_name": "com.example.proyecto"
+>>>>>>> aa1cd682c895b13a9c3658412a960855e41dec28
         }
       },
       "oauth_client": [],
