@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> ef4fb91dc62322468d1c57af353d8dadb494ff85
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.USE_BIOMETRIC" />
 
 
+<<<<<<< HEAD
+=======
+=======
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+>>>>>>> aa1cd682c895b13a9c3658412a960855e41dec28
+>>>>>>> ef4fb91dc62322468d1c57af353d8dadb494ff85
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -15,6 +26,10 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> ef4fb91dc62322468d1c57af353d8dadb494ff85
         android:theme="@style/Theme.ProyectoIntegracion"
         tools:targetApi="31">
         <activity
@@ -25,6 +40,15 @@
             android:exported="false" />
         <activity
             android:name=".AsientosActivity"
+<<<<<<< HEAD
+=======
+=======
+        android:theme="@style/Theme.Proyecto"
+        tools:targetApi="34">
+        <activity
+            android:name=".HomeActivity"
+>>>>>>> aa1cd682c895b13a9c3658412a960855e41dec28
+>>>>>>> ef4fb91dc62322468d1c57af353d8dadb494ff85
             android:exported="false" />
         <activity
             android:name=".RegisterActivity"
@@ -38,6 +62,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> ef4fb91dc62322468d1c57af353d8dadb494ff85
         <activity
             android:name=".BaseActivity"
             android:exported="false" />
@@ -53,6 +81,11 @@
         <meta-data
             android:name="com.google.android.gms.wallet.api.enabled"
             android:value="true" />
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> aa1cd682c895b13a9c3658412a960855e41dec28
+>>>>>>> ef4fb91dc62322468d1c57af353d8dadb494ff85
     </application>
 
 </manifest>

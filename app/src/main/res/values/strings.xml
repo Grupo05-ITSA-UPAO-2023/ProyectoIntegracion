@@ -1,4 +1,8 @@
 <resources>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> ef4fb91dc62322468d1c57af353d8dadb494ff85
     <!-- Nombre de la aplicación -->
     <string name="app_name">Itsa</string>
 
@@ -99,4 +103,13 @@
     <string name="salida_origen">Salida</string>
 
 
+<<<<<<< HEAD
+=======
+=======
+    <string name="app_name">Proyecto</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="default_web_client_id" translatable="false">944353281280-ucm0su7ij73lgabv4ktvpd1b586mlu8g.apps.googleusercontent.com</string>
+>>>>>>> aa1cd682c895b13a9c3658412a960855e41dec28
+>>>>>>> ef4fb91dc62322468d1c57af353d8dadb494ff85
 </resources>
