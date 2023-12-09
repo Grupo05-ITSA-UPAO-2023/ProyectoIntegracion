@@ -1,0 +1,102 @@
+<resources>
+    <!-- Nombre de la aplicación -->
+    <string name="app_name">Itsa</string>
+
+    <!-- Hints para los campos de origen y destino -->
+    <string name="hint_origen">Origen</string>
+    <string name="hint_destino">Destino</string>
+    <string name="hint_fechaida">Fecha de ida (yyyy-mm-dd)</string>
+    <string name="hint_fechavuelta">Fecha de retorno (opcional)</string>
+    <string name="boton_buscar">Buscar Ruta</string>
+    <string name="text_titulo">Hola, Elige tu ruta</string>
+
+    <string name="text_origen">Origen:</string>
+    <string name="hint_text_origen">Origen</string>
+    <string name="text_destino">Destino:</string>
+    <string name="hint_text_destino">Destino</string>
+
+    <string name="title_salida">Selecciona una Salida:</string>
+    <string name="title_rutaSeleccionada">Datos de Ruta: </string>
+
+    <string name="text_ida">Ida: </string>
+    <string name="hint_text_fechaida">yyyy-mm-dd</string>
+    <string name="botton_volver_buscar">Buscar Ruta</string>
+
+    <string name="table_salida">Hora</string>
+    <string name="table_servicio">Tipo</string>
+    <string name="table_precio">Precio</string>
+    <string name="table_select">Seleccionar</string>
+
+    <string name="p_hora">Hora</string>
+    <string name="p_bus">Bus</string>
+    <string name="p_precio">Precio</string>
+    <string name="botton_elegir">Elegir</string>
+
+    <string name="p_hora2">Hora</string>
+    <string name="p_bus2">Bus</string>
+    <string name="p_precio2">Precio</string>
+    <string name="botton_elegir2">Elegir</string>
+
+    <string name="p_hora3">Hora</string>
+    <string name="p_bus3">Bus</string>
+    <string name="p_precio3">Precio</string>
+    <string name="botton_elegir3">Elegir</string>
+
+    <string name="text_pasajero_seccion">Registrar pasajero</string>
+    <string name="hint_dni">Ingresa tu DNI</string>
+    <string name="botton_autocompletar">Autocompletar</string>
+    <string name="hint_nombre">Nombres</string>
+    <string name="hint_apellido_paterno">Apellido Paterno</string>
+    <string name="hint_apellido_materno">Apellido Materno</string>
+    <string name="hint_fecha_nacimiento">Fecha de Nacimiento (YYYY-MM-DD)</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_Telefono">Telefono</string>
+
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <!-- ID del cliente web predeterminado -->
+    <string name="default_web_client_id" translatable="false">944353281280-ucm0su7ij73lgabv4ktvpd1b586mlu8g.apps.googleusercontent.com</string>
+
+    <!--Boton para pasar a seleccionar asientos-->
+    <string name="AsientosBoton">Pasar a Seleccionar Asiento</string>
+    <!--Selecciona tu Asiento-->
+    <string name="title_asientos">Selecciona tu Asiento</string>
+    <!--Asientos-->
+    <string name="asiento_uno">1</string>
+    <string name="asiento_dos">2</string>
+    <string name="asiento_tres">3</string>
+    <string name="asiento_cuatro">4</string>
+    <string name="asiento_cinco">5</string>
+    <string name="asiento_seis">6</string>
+    <string name="asiento_siete">7</string>
+    <string name="asiento_ocho">8</string>
+    <string name="asiento_nueve">9</string>
+    <string name="asiento_diez">10</string>
+    <string name="asiento_once">11</string>
+    <string name="asiento_doce">12</string>
+    <string name="asiento_trece">13</string>
+    <string name="asiento_catorce">14</string>
+    <string name="asiento_quince">15</string>
+    <string name="asiento_dieciseis">16</string>
+    <string name="asiento_diecisiete">17</string>
+    <string name="asiento_dieciocho">18</string>
+    <string name="asiento_diecinueve">19</string>
+    <string name="asientoveinte">20</string>
+
+    <!--Estado Inicial Asiento -->
+    <string name="asiento_estado_inicial">Libre</string>
+
+    <!--Pagar Asiento -->
+    <string name="title_pago">Paga tu Asiento</string>
+    <string name="Pago_Dni">Dni</string>
+    <string name="hint_dni_pago">dni</string>
+    <string name="pago_nombre">Nombre</string>
+    <string name="hint_pago_nomre">nombre</string>
+    <string name="pago_apellido_paterno">Apellido Paterno</string>
+    <string name="hint_pago_apellido">apellido paterno</string>
+    <string name="pago_apellido_materno">Apellido Materno</string>
+    <string name="hint_pago_apellido_materno">apellido materno</string>
+    <string name="salida_origen">Salida</string>
+
+
+</resources>
